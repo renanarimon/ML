@@ -5,7 +5,7 @@
 * vizualization
 * Classification models<br>
 
-## notbooks:
+## notebooks:
 ### fashion Mnist
 One of the most famous datasets is Mnist-Fashion which contains about 1000,70 black and white images the size of
 28 * 28 or 784 pixels.<br> 
