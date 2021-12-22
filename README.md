@@ -10,8 +10,9 @@
 ![image](https://user-images.githubusercontent.com/77155986/147161958-08175281-bcc5-4cb3-93f0-d66cfcf293cc.png)
 
 #### cats vs dogs
-![image](https://user-images.githubusercontent.com/77155986/147162155-0c2ade04-e110-4808-855b-4cb90af09f82.png)
-![image](https://user-images.githubusercontent.com/77155986/147162201-1fbe6e54-0aa8-4a57-83e7-9a78b7297076.png)
+![image](https://user-images.githubusercontent.com/77155986/147162331-0eb961a9-f172-4730-9cd7-1e3ca45fcc2b.png)
+![image](https://user-images.githubusercontent.com/77155986/147162340-ec9b8ae8-e90a-4862-920e-c48d9bf83878.png)
+
 
 
 In this project, the main methods I have used is:
