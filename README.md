@@ -13,6 +13,8 @@
 ![image](https://user-images.githubusercontent.com/77155986/147162331-0eb961a9-f172-4730-9cd7-1e3ca45fcc2b.png)
 ![image](https://user-images.githubusercontent.com/77155986/147162340-ec9b8ae8-e90a-4862-920e-c48d9bf83878.png)
 
+### hand movements
+![image](https://user-images.githubusercontent.com/77155986/147162440-e0118248-b7b0-4d58-a2b0-7bca17976d39.png)
 
 
 In this project, the main methods I have used is:
