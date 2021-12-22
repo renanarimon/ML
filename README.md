@@ -10,8 +10,9 @@
 ![image](https://user-images.githubusercontent.com/77155986/147161958-08175281-bcc5-4cb3-93f0-d66cfcf293cc.png)
 
 #### cats vs dogs
-![image](https://user-images.githubusercontent.com/77155986/147162104-696921a9-9363-4ce5-b034-1d2fa8d764be.png)
 ![image](https://user-images.githubusercontent.com/77155986/147162155-0c2ade04-e110-4808-855b-4cb90af09f82.png)
+![image](https://user-images.githubusercontent.com/77155986/147162201-1fbe6e54-0aa8-4a57-83e7-9a78b7297076.png)
+
 
 In this project, the main methods I have used is:
 1.	Scale: standardize the dataset by standard-scaler.
