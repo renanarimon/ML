@@ -11,8 +11,7 @@
 
 #### cats vs dogs
 ![image](https://user-images.githubusercontent.com/77155986/147162104-696921a9-9363-4ce5-b034-1d2fa8d764be.png)
-![image](https://user-images.githubusercontent.com/77155986/147162117-c2ab8efe-b13d-4b08-a901-40d689b2d7cd.png)
-
+![image](https://user-images.githubusercontent.com/77155986/147162155-0c2ade04-e110-4808-855b-4cb90af09f82.png)
 
 In this project, the main methods I have used is:
 1.	Scale: standardize the dataset by standard-scaler.
