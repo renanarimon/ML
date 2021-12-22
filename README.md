@@ -3,7 +3,14 @@
 
 * clean data
 * vizualization
-* Classification models
+* Classification models<br>
+
+### notbooks:
+#### fashion Mnist
+![image](https://user-images.githubusercontent.com/77155986/147161958-08175281-bcc5-4cb3-93f0-d66cfcf293cc.png)
+
+#### cats vs dogs
+
 
 In this project, the main methods I have used is:
 1.	Scale: standardize the dataset by standard-scaler.
