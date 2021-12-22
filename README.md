@@ -11,14 +11,15 @@ In this project, the main methods I have used is:
 my goal was to reach the best accuracy with lowest number of components, so I have tried to get the best balance between both.
 3.	GridSearch: find best parameters in each model (using cross-validation).
 4.	pipeline: scaling, pca, and fit model.
-5.	Ensamble learning models: 
+5.	Ensamble learning models: <br>
 *	Logistic regression
 *	KNN 
 *	Random forest
 *	XGBoost
 *	Gradient Boost
 *	Voting
-*	Stacking
+*	Stacking<br>
+
 Models I used but didn’t perform well, so isn’t in the notebooks:
 *	Ada Boost
 *	K-means
