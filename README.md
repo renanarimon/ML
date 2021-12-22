@@ -1,5 +1,5 @@
 # ML
-data science & AI
+### data science & AI
 
 * clean data
 * vizualization
@@ -12,14 +12,14 @@ my goal was to reach the best accuracy with lowest number of components, so I ha
 3.	GridSearch: find best parameters in each model (using cross-validation).
 4.	pipeline: scaling, pca, and fit model.
 5.	Ensamble learning models: 
-a.	Logistic regression
-b.	KNN 
-c.	Random forest
-d.	XGBoost
-e.	Gradient Boost
-f.	Voting
-g.	Stacking
+*	Logistic regression
+*	KNN 
+*	Random forest
+*	XGBoost
+*	Gradient Boost
+*	Voting
+*	Stacking
 Models I used but didn’t perform well, so isn’t in the notebooks:
-h.	Ada Boost
-i.	K-means
+*	Ada Boost
+*	K-means
 
