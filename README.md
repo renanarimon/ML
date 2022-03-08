@@ -25,7 +25,7 @@ The purpose of the work is to classify three different situations in the way peo
 * movement in position Own. Where only one side moves the hands.<br>
 ![image](https://user-images.githubusercontent.com/77155986/147162440-e0118248-b7b0-4d58-a2b0-7bca17976d39.png)
 
-### hart desease
+### Heart disease
 Improving a project from a previous semester by using better models<br>
 ![image](https://user-images.githubusercontent.com/77155986/147162564-31df8fd3-c013-4a2a-b6a4-7a32f3af11fc.png)<br>
 
