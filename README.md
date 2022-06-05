@@ -1,6 +1,9 @@
 # ML
 ### data science & AI
 
+
+# NOTE: if the Jupiter Notebook Not Rendering, click here: https://nbviewer.org/ and enter the URL there
+
 * clean data
 * vizualization
 * Classification models<br>
